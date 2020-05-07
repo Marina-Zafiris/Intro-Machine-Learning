@@ -1,4 +1,4 @@
-#Introduction to Statistical and Machine Learning
+# Introduction to Statistical and Machine Learning
  
 #### Within this directory you will find Machine Learning related projects. Projects were completed for DATA 4319 *Introduction to Statistical and Machine Learning* at the University of Houston- Downtown. 
 
