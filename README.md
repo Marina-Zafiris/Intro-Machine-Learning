@@ -10,7 +10,7 @@ Algorithms
 - Supervised
   1. Perceptron
   2. K-Nearest Neighbors
-  3. Simple Linear
+  3. Simple Linear Regression
 - Unsupervised
   1. Principle Component Analysis
   2. K-Means Clustering
